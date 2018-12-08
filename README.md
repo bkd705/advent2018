@@ -4,4 +4,5 @@
 
 ## Days
 
-[One](one.js)
+[One (Part 1)](one/one.js)
+[One (Part 2)](one/two.js)
